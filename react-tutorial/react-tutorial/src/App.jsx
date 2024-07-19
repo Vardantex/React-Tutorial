@@ -1,6 +1,6 @@
 import './App.css'
-import One from './One'
-import { Two, TwoSecond } from './Two'
+import State from './State'
+import { StateFunc } from './StateFunc'
 
 
 function App() {
@@ -8,9 +8,9 @@ function App() {
   return (
     <>
 
-     <One/>
-    <Two/>
-    <TwoSecond/>
+     <State/>
+      <StateFunc/>
+
     </>
   )
 }
