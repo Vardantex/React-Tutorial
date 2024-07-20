@@ -1,16 +1,13 @@
 import './App.css'
-import State from './State'
-import { StateFunc } from './StateFunc'
-
+import OneProp from './OneProp'
+import ThreeProp from './ThreeProp'
 
 function App() {
 
   return (
     <>
-
-     <State/>
-      <StateFunc/>
-
+      <OneProp/>
+      <ThreeProp/>
     </>
   )
 }
