@@ -1,0 +1,31 @@
+{
+  "sports": [
+    {
+      "id": 1,
+      "title": "Messi wins MVP",
+      "description": "Lionel Messi only needed 14 games in the Inter Miami jersey for the team to choose him as its 2023 Most Valuable Player (MVP), becoming the fourth player to win the award since the franchise began playing in MLS in 2020."
+    },
+    {
+      "id": 2,
+      "title": "2023 NBA Finals",
+      "description": "The Nuggets defeated the Heat in four of five games, winning their first championship in franchise history after 47 seasons in the NBA. Denver's Nikola Jokić was unanimously voted the NBA Finals Most Valuable Player (MVP),[2][3][4] after averaging 30.2 points, 14.0 rebounds, 7.2 assists, and 1.4 blocks while shooting 58.3% from the field and 42.1% from the 3-point line"
+    },
+    {
+      "id": 3,
+      "title": "NBA is canceled",
+      "description": "Because of Coronavirus"
+    }
+  ],
+  "tech": [
+    {
+      "id": 50,
+      "title": "GPUs keep getting more expensive",
+      "description": "Graphics cards have become more expensive recently due to their use in crypto currency mining operations. Since the price of cryptographic currencies has gone up, so has the demand for hardware capable of mining them. And since graphics cards are so good at it, the global demand and price have kept increasing."
+    },
+    {
+      "id": 51,
+      "title": "Can AI replace programmers?",
+      "description": "Did autopilot replace pilots? No. With AI there will be hundreds of new sectors booming that will need developers. The overall output will grow multi fold."
+    }
+  ]
+}
